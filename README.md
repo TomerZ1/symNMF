@@ -67,7 +67,6 @@ make
 
 ## 🧾 Notes
 
-- Some function skeletons were provided as part of the course instructions.
 - All SymNMF logic, C extension integration, and testing scripts were implemented by me.
 - Testers for validation were also written by me.
 
